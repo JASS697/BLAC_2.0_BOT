@@ -147,7 +147,7 @@ uritemplate==3.0.1
 urllib3==1.26.2
 uwsgidecorators==1.1.0
 validators==0.18.1
-websocket-client==0.57.0
+websocket-client==0.58.0
 wget==3.2
 wikipedia==1.4.0
 win32-setctime==1.0.3
